@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\Visual Studio 2019\Proyectos\poyectos en C#\PatinesFinal\bin\Debug\PatinesFinal.exe
+C:\Users\hp\Documents\Visual Studio 2019\Proyectos\poyectos en C#\PatinesFinal\bin\Debug\PatinesFinal.pdb
+C:\Users\hp\Documents\Visual Studio 2019\Proyectos\poyectos en C#\PatinesFinal\obj\Debug\PatinesFinal.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2019\Proyectos\poyectos en C#\PatinesFinal\obj\Debug\PatinesFinal.Form1.resources
+C:\Users\hp\Documents\Visual Studio 2019\Proyectos\poyectos en C#\PatinesFinal\obj\Debug\PatinesFinal.Properties.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2019\Proyectos\poyectos en C#\PatinesFinal\obj\Debug\PatinesFinal.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Visual Studio 2019\Proyectos\poyectos en C#\PatinesFinal\obj\Debug\PatinesFinal.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Visual Studio 2019\Proyectos\poyectos en C#\PatinesFinal\obj\Debug\PatinesFinal.exe
+C:\Users\hp\Documents\Visual Studio 2019\Proyectos\poyectos en C#\PatinesFinal\obj\Debug\PatinesFinal.pdb
+C:\Users\hp\Documents\Visual Studio 2019\Proyectos\poyectos en C#\PatinesFinal\obj\Debug\PatinesFinal.confirm.resources
+C:\Users\hp\Documents\Visual Studio 2019\Proyectos\poyectos en C#\PatinesFinal\obj\Debug\PatinesFinal.Registro_Usuario.resources
+C:\Users\hp\Documents\Visual Studio 2019\Proyectos\poyectos en C#\PatinesFinal\bin\Debug\PatinesFinal.exe.config
+C:\Users\hp\Documents\Visual Studio 2019\Proyectos\poyectos en C#\PatinesFinal\bin\Debug\sqlConnectionLibrary.dll
+C:\Users\hp\Documents\Visual Studio 2019\Proyectos\poyectos en C#\PatinesFinal\obj\Debug\PatinesFinal.csproj.CopyComplete
+C:\Users\hp\Documents\Visual Studio 2019\Proyectos\poyectos en C#\PatinesFinal\obj\Debug\PatinesFinal.Menu_Principal.resources
