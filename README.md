@@ -1,7 +1,7 @@
 # Proyecto-Venta-de-Patines
 Aún no terminado.
 
-Puede descargar el video con terminación "MP4" para saber como funciona la aplicación.
+Puede descargar el video con terminación "MP4" para saber como funciona y como esta desarrollada al momento la aplicación.
 
 Este proyecto principalmente lo inicie en la escuela solo con querys y store procedures, con forme pasó el tiempo y estuve indagando, ingrese a cursos para mejorar en el lenguaje de c# y este proyecto es el resultado.
 En este puedes observar que, utilizo varias funciones en c# asi como, DLL, 3 capas, framework 4.7  y diseño personalizado.
